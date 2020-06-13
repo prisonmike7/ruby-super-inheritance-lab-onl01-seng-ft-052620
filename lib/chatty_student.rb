@@ -1,4 +1,4 @@
-class Student
+class ChattyStudent
 
   def hello
 
