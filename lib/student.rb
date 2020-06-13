@@ -8,7 +8,4 @@ class Student
 
   end
 
-
-
-
 end
