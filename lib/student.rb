@@ -6,5 +6,5 @@ class Student
 
 
 
-  
+
 end
